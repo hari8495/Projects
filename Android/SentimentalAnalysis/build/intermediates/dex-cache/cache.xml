@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\language-translator\3.5.3\b4bf32238b4ac7c6fd789668e0e793236e7c7b6a\language-translator-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4bf32238b4ac7c6fd789668e0e793236e7c7b6a">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\language-translator-3.5.3_c9f3e0ed8a0707b31f0eab0a7fd56977c85f7c2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2765c4d412914ee3da3df43b0e49a07470c8ebb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.3.1\ebca9fdfbef870042a19aec6a5b7a21d72639310\okhttp-ws-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ebca9fdfbef870042a19aec6a5b7a21d72639310">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-ws-3.3.1_e685c406d9df9391147cfc457619ae399ecdec1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_833a69e7f675dae9e1c5e8bc84b22199f519a5dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_6df6971f82131da609e045eb0165d61a509ceb32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\conversation\3.5.3\30711fe987b43f8e26942a232bc29bf0c545243d\conversation-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30711fe987b43f8e26942a232bc29bf0c545243d">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\conversation-3.5.3_b6c1fea5976702b8127c1d0a517faed440e8b121\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_b184db9df70c18357d2f53c7d7415876590a6a88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\document-conversion\3.5.3\784b3b1598e9f86601ebd9354726364c03e4a93\document-conversion-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0784b3b1598e9f86601ebd9354726364c03e4a93">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\document-conversion-3.5.3_73c566e186b7aa224dde70122dffcd4ea7859bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\visual-recognition\3.5.3\d81a6517c4a442e9865d7df86c661a473b58eff6\visual-recognition-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d81a6517c4a442e9865d7df86c661a473b58eff6">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\visual-recognition-3.5.3_1cff83a7e239b8a3188761fd8df70a1b3b787c1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_eb4d93915637f64f7a998b3a1ffcb4c8d72427e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\retrieve-and-rank\3.5.3\f7a06ccabcabf0dcae503d345529d565f8ee8d0f\retrieve-and-rank-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7a06ccabcabf0dcae503d345529d565f8ee8d0f">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrieve-and-rank-3.5.3_d3e53f95eaa055279ff743e9cc3faeaf72d6dc9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\alchemy\3.5.3\d2cfab19f79a400d0fb335227572190a1a74df92\alchemy-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d2cfab19f79a400d0fb335227572190a1a74df92">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\alchemy-3.5.3_f9de93b8fbbf52a7ec4079f2d5308ac565fd2c9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1eb89773cd12fa8a9447e5ac6f2cb7962b70f3e">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cf87d2abdb150f6de6793eb1d5255a7925c65f00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\dialog\3.5.3\6c32ec10bf14cd2d08a0f5ffa4e6276e59d81f5\dialog-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="06c32ec10bf14cd2d08a0f5ffa4e6276e59d81f5">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\dialog-3.5.3_077385fba674d5527f762ab2eaec909ac5076ee0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_1a82e26491404eb24fd95dc34d750d17fa40f450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\core\3.5.3\c7d0e2ecfcad9ed1cdfb1cbb20bc2f7678939bb2\core-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7d0e2ecfcad9ed1cdfb1cbb20bc2f7678939bb2">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.5.3_bc9bb9cc93d515bfa7a5812a5321504dad4d96bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.1_dde2b977bf54c8d9c38395ceed34be9f1033ff58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_24430129742dbb3004efcbc9194ec375cdc54844\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\language-translation\3.5.3\94eb4ef96bd72ee8e5b72575c5fa66b0695292c6\language-translation-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94eb4ef96bd72ee8e5b72575c5fa66b0695292c6">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\language-translation-3.5.3_5f4970020a48fa0c02c8f5525beb20e7318b147e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_da44f96a5257b33afce50de80e9f449f1bfb416e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_15fb75e3cffa1009e237002cf87c67191974dd92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_899fa97149a9fd0fed313f847d7b17c0f5064368\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\text-to-speech\3.5.3\54c7b06570e007136526bcc0502d63474b2e487\text-to-speech-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="054c7b06570e007136526bcc0502d63474b2e487">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\text-to-speech-3.5.3_e2f6346c3c95b7a6e130fedce086bb8a726fdc81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c97ee3293f44610b11ed9afedeb01e675f077ae8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_635e4c9988beadf61bb39588fa9136047d841c18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\personality-insights\3.5.3\d79cf9fa0ff4290e7f562a229df3cc62c16a7f46\personality-insights-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d79cf9fa0ff4290e7f562a229df3cc62c16a7f46">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\personality-insights-3.5.3_3e4e3afef3bfaa692e5f9dc72656a58918a6f909\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_1c069288c676034a18c61fa9a4693bf83fa2fbb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_a1bba83c6b9c7bd0d94242ac2ffd8a749db59d88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\speech-to-text\3.5.3\3467f4a51a7924ac18cc393b48b7634dbcd547ca\speech-to-text-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3467f4a51a7924ac18cc393b48b7634dbcd547ca">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\speech-to-text-3.5.3_c933c123ff6dafa3196ab0ed8a146edfdad94475\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.bundles.repackaged\jersey-jsr166e\2.22.2\3ef9c67a5bea4d914a45bd54f3405fa29a368f7a\jersey-jsr166e-2.22.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3ef9c67a5bea4d914a45bd54f3405fa29a368f7a">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\jersey-jsr166e-2.22.2_15557f35d9927086b0ff169fc7ccf8c218650924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\natural-language-classifier\3.5.3\a41cbcda0abcf99d2cda1f9e9268475c6152f22d\natural-language-classifier-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a41cbcda0abcf99d2cda1f9e9268475c6152f22d">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\natural-language-classifier-3.5.3_fa460003ffb599ce387048337248e7e821e34d45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6b99c034563bd1b5b4aa2ca4429cccf2db1bfca4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\tradeoff-analytics\3.5.3\3a2e0e4ac08ea7668eadeb543ffa3232cc771c64\tradeoff-analytics-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3a2e0e4ac08ea7668eadeb543ffa3232cc771c64">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\tradeoff-analytics-3.5.3_844bdcb3d67bfa8191b614bf4dd0555eb32e35e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_365d41e736727a6d68a030f21070425677c51c77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_64107c61f700e373da0be9a6323b8319d84343b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\tone-analyzer\3.5.3\acb24c1b99ba260e7dc45e56fc7893f9aaa5f43a\tone-analyzer-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="acb24c1b99ba260e7dc45e56fc7893f9aaa5f43a">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\tone-analyzer-3.5.3_23f4b6c37471dc21c61b8b704f4a2dcd71aa9079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.3.1\14e70f2069fb98dc60346dd24cb7b6a2e321580d\okhttp-urlconnection-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="14e70f2069fb98dc60346dd24cb7b6a2e321580d">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.3.1_ca89d7c9c02ef9d9355a506b451a97c97e6f9b04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\discovery\3.5.3\d876b7df14b2c09b212a78a3c0c26976249a3a03\discovery-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d876b7df14b2c09b212a78a3c0c26976249a3a03">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\discovery-3.5.3_64cf2bd5d6d86a0363f169d2844cbe058c41eb86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_e8ff0a52cbba7ec1c86365beff864ec4e9f101d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="46ed57653afb400a9304edcb7bdd7d181c5b697d">
+        <dex dex="C:\Users\Harish\AndroidStudioProjects\SentimentalAnalysis\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_78ac702c976ea798bb9cb2670b1d4b685ec452fe\classes.dex" />
+    </item>
+
+</items>

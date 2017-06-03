@@ -1,0 +1,7 @@
+#Sun Feb 26 17:51:42 IST 2017
+base.0=C\:\\Users\\Harish\\AndroidStudioProjects\\SentimentalAnalysis\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_78ac702c976ea798bb9cb2670b1d4b685ec452fe
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Harish\\AndroidStudioProjects\\SentimentalAnalysis\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cf87d2abdb150f6de6793eb1d5255a7925c65f00\\classes.dex
+base.1=C\:\\Users\\Harish\\AndroidStudioProjects\\SentimentalAnalysis\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cf87d2abdb150f6de6793eb1d5255a7925c65f00
+file.0=C\:\\Users\\Harish\\AndroidStudioProjects\\SentimentalAnalysis\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_78ac702c976ea798bb9cb2670b1d4b685ec452fe\\classes.dex
