@@ -1,0 +1,23 @@
+
+body 
+{
+  background:#6E6E6E;
+ }
+.ban
+{
+  text-align:center;
+}
+.bg
+{
+ font-family:Verdana;
+ background:#fffaf;
+ width:100%;
+ text-color:#fff;
+ height:100px;
+}
+ .container
+{
+  text-align:justify;
+  padding-left:630px;
+  padding-top:20px;
+}  
